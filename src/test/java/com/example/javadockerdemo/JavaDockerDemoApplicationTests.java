@@ -8,3 +8,6 @@ class JavaDockerDemoApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
